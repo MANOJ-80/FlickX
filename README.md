@@ -50,7 +50,7 @@ npm run dev
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 📸 Screenshots
-_Add screenshots of your app interface here._
+
 
 ## 🛠 Future Enhancements
 - 🎭 **Movie Categories** – Filter movies by genre.
@@ -66,7 +66,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📩 Contact
 For any queries, reach out to:
 - **GitHub**: [MANOJ-80](https://github.com/MANOJ-80)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+
 
 ---
 Enjoy FlickX! 🍿🎥
