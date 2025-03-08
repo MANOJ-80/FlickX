@@ -6,7 +6,6 @@ FlickX is a sleek and modern movie browsing application built with **React.js**,
 ## 🚀 Features
 - 🔍 **Search Movies** – Easily search for your favorite movies.
 - 📈 **Trending Movies** – Discover the most popular and trending movies.
-- 🛠 **User Authentication** – Secure login and sign-up using Appwrite.
 - 🎨 **Modern UI** – Styled with Tailwind CSS for a responsive and clean design.
 - 🌐 **API Integration** – Fetches movie data from an external API.
 
@@ -51,6 +50,9 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 📸 Screenshots
 
+Here is a preview of FlickX:
+
+![FlickX Screenshot](public/ScreenShot.png)
 
 ## 🛠 Future Enhancements
 - 🎭 **Movie Categories** – Filter movies by genre.
@@ -66,7 +68,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📩 Contact
 For any queries, reach out to:
 - **GitHub**: [MANOJ-80](https://github.com/MANOJ-80)
-
 
 ---
 Enjoy FlickX! 🍿🎥
